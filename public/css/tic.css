@@ -1,0 +1,42 @@
+body {
+	color: #FFFFFF;
+}
+
+#container {
+	width: 850px;
+	min-height: 750px;
+	padding-top: 165px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#game {
+	background-color: #000000;
+	width: 640px;
+	height: 480px;
+	border-style: solid;
+	border-radius: 2px;
+	border-color: black;
+	font-family: 'Quintessential', cursive;
+	font-size: 18px;
+	text-align: left;
+}
+
+#footer {
+	font-size: 10px;
+	text-align: bottom;
+}
+
+#text {
+	min-height: 40px;
+}
+
+input, textarea {
+	border:none;
+	border-bottom-style: solid;
+	border-color: #5A5A5A;
+	width: 600px;
+	padding-left: 8px;
+	background: none;
+	color: #FFFFFF;
+}
